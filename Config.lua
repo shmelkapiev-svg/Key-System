@@ -24,15 +24,15 @@ getgenv().KeySystemConfig = {
 
 	-- Button labels
 	Buttons = {
-		GetKey = "Get Key",
-		CheckKey = "Check Key",
+		GetKey = "Get Toy-ID",
+		CheckKey = "Check Toy-ID",
 		Discord = "Copy Discord",
 	},
 
 	-- Links
 	AdRewardsUrl = "Example", -- <- paste your Luarmor Ad Rewards link (https://ads.luarmor.net/...)
 	DiscordUrl = "https://discord.gg/example",
-	ShowDiscordButton = true,
+	ShowDiscordButton = false,
 
 	-- Luarmor
 	ScriptId = "YOUR_LUARMOR_SCRIPT_ID", -- <- your script ID (not a secret)
