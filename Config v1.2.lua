@@ -40,5 +40,5 @@ getgenv().KeySystemConfig = {
 }
 
 loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/shmelkapiev-svg/Key-System/refs/heads/main/key%20system%20v1.2.lua"
+    "https://raw.githubusercontent.com/shmelkapiev-svg/Key-System/refs/heads/main/System/Kmv1.2.lua"
 ))()
