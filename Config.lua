@@ -41,6 +41,4 @@ getgenv().KeySystemConfig = {
 	DetailedErrors = false, -- true = append the Luarmor status code to error messages
 }
 
--- Load the key checker (Script 1). Replace the URL with where you host KeySystem.lua
--- (e.g. a GitHub raw link).
 loadstring(game:HttpGet("https://raw.githubusercontent.com/shmelkapiev-svg/Key-System/refs/heads/main/key%20system%20v1.0.lua?token=GHSAT0AAAAAAEMWG63HHKPYIO5OOOZFZ4QC2W5XSMA"))()
