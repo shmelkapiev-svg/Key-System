@@ -41,4 +41,4 @@ getgenv().KeySystemConfig = {
 	DetailedErrors = false, -- true = append the Luarmor status code to error messages
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/shmelkapiev-svg/Key-System/refs/heads/main/key%20system%20v1.0.lua?token=GHSAT0AAAAAAEMWG63HHKPYIO5OOOZFZ4QC2W5XSMA"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shmelkapiev-svg/Key-System/refs/heads/main/key%20system%20v1.0.lua"))()
