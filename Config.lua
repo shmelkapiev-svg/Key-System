@@ -24,18 +24,18 @@ getgenv().KeySystemConfig = {
 
 	-- Button labels
 	Buttons = {
-		GetKey = "Get Toy-ID",
-		CheckKey = "Check Toy-ID",
+		GetKey = "Get Key",
+		CheckKey = "Check Key",
 		Discord = "Copy Discord",
 	},
 
 	-- Links
-	AdRewardsUrl = "Example", -- <- paste your Luarmor Ad Rewards link (https://ads.luarmor.net/...)
+	AdRewardsUrl = "Example", -- paste your Luarmor Ad Rewards link (https://ads.luarmor.net/...)
 	DiscordUrl = "https://discord.gg/example",
-	ShowDiscordButton = false,
+	ShowDiscordButton = true,
 
 	-- Luarmor
-	ScriptId = "YOUR_LUARMOR_SCRIPT_ID", -- <- your script ID (not a secret)
+	ScriptId = "YOUR_LUARMOR_SCRIPT_ID", -- your script ID (not a secret)
 
 	-- Behaviour
 	DetailedErrors = false, -- true = append the Luarmor status code to error messages
